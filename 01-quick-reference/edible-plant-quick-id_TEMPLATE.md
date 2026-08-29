@@ -16,4 +16,4 @@ Copy this file to `edible-plant-quick-id_[region].md` per region you need.
 If you cannot positively confirm identification against at least two independent criteria from a trusted source, **do not eat it**. Misidentification of wild plants and fungi kills people every year — this file is a memory aid for trained/verified knowledge, not a substitute for learning to identify local flora before you need to.
 
 ## To complete this file
-Tell me (or a future editor) your target region(s) and I'll populate real entries sourced from `05-plants-fungi/` reference material once that's loaded.
+Tell me (or a future editor) your target region(s) and I'll populate real entries sourced from `05-plants-fungi/regional/` once that region has verified content — see `05-plants-fungi/regional/north-america_temperate.md` for the first worked example, and `05-plants-fungi/common-survival-plants_global.md` for widely-distributed, low-ambiguity plants that transfer across most regions.
