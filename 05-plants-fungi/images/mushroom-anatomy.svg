@@ -1,0 +1,48 @@
+<svg viewBox="0 0 480 420" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif" stroke="#1a1a1a" fill="none" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+  <title>Generic mushroom anatomy — vocabulary reference, not species identification</title>
+
+  <!-- cap -->
+  <path d="M150,110 C150,50 330,50 330,110 C330,120 320,124 240,124 C160,124 150,120 150,110 Z" fill="#1a1a1a" fill-opacity="0.06"/>
+  <path d="M150,110 C150,50 330,50 330,110" />
+  <path d="M150,110 C160,124 320,124 330,110" />
+
+  <!-- gills (short radiating lines under cap) -->
+  <g stroke-width="1.6">
+    <line x1="175" y1="122" x2="180" y2="140"/>
+    <line x1="200" y1="124" x2="203" y2="142"/>
+    <line x1="225" y1="125" x2="226" y2="143"/>
+    <line x1="255" y1="125" x2="254" y2="143"/>
+    <line x1="280" y1="124" x2="277" y2="142"/>
+    <line x1="305" y1="122" x2="300" y2="140"/>
+  </g>
+
+  <!-- ring / annulus -->
+  <path d="M215,190 C215,183 265,183 265,190 C265,197 215,197 215,190 Z" fill="#1a1a1a" fill-opacity="0.06"/>
+
+  <!-- stem -->
+  <path d="M218,140 C215,175 214,260 220,320 L240,320 L260,320 C266,260 265,175 262,140" />
+
+  <!-- volva / cup at base -->
+  <path d="M195,320 C195,308 285,308 285,320 C285,340 265,352 240,352 C215,352 195,340 195,320 Z" fill="#1a1a1a" fill-opacity="0.06"/>
+
+  <!-- ground line -->
+  <line x1="90" y1="352" x2="390" y2="352" stroke-width="1.5" stroke-dasharray="1,6"/>
+
+  <!-- labels + leader lines -->
+  <g stroke-width="1.2" stroke-dasharray="3,3">
+    <line x1="330" y1="80" x2="400" y2="80"/>
+    <line x1="315" y1="130" x2="400" y2="150"/>
+    <line x1="266" y1="190" x2="400" y2="220"/>
+    <line x1="262" y1="230" x2="400" y2="270"/>
+    <line x1="285" y1="325" x2="400" y2="320"/>
+  </g>
+  <g stroke="none" fill="#1a1a1a" font-size="15" font-weight="600">
+    <text x="404" y="84">Cap</text>
+    <text x="404" y="154">Gills</text>
+    <text x="404" y="224">Ring (annulus)</text>
+    <text x="404" y="274">Stem</text>
+    <text x="404" y="324">Volva</text>
+  </g>
+
+  <text x="240" y="395" text-anchor="middle" font-size="13" font-weight="600" fill="#1a1a1a" stroke="none">CHECK FOR A VOLVA AT THE BASE — DIG, DON'T PULL</text>
+</svg>

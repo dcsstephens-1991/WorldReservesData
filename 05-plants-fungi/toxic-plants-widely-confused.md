@@ -2,7 +2,13 @@
 
 These are widely documented, frequently-cited dangerous mix-ups — not a complete list, but the highest-value ones to know because the confusion is common and the consequences are severe. Cross-check any of these against a second source and local expertise before relying on this for identification in the field.
 
+![Leaf arrangement, margin, and simple vs. compound reference diagram](images/leaf-morphology-reference.svg)
+
+The vocabulary above (arrangement, margin, simple/compound) is used throughout this file and the rest of the archive's plant content — it's a starting point for describing what you're looking at, not a shortcut to identification on its own.
+
 ## Water hemlock vs. wild carrot / Queen Anne's lace / edible members of the carrot family
+
+![Umbel flower cluster shape shared by edible and deadly carrot-family plants](images/umbel-family-caution.svg)
 - **Water hemlock (*Cicuta* species)** is widely regarded as one of the most toxic plants in North America — a small amount of the root can be fatal. It grows in wet areas (stream banks, marshes, ditches) and has the umbrella-shaped flower clusters (umbels) typical of the carrot/parsley family, which it shares with several edible relatives.
 - **Distinguishing features are genuinely difficult** for a non-expert — the safest approach is to treat any wild umbel-flowered plant near water with serious caution, and to never harvest wild members of this plant family (which includes carrot, parsley, dill, and their toxic look-alikes) from the wild for eating without expert verification, even though some family members are edible garden crops. Domesticated, purchased carrots/parsley are unrelated to this risk.
 - Poison hemlock (*Conium maculatum*, a different plant from water hemlock but similarly deadly, associated historically with Socrates' execution) shares the same family and the same caution.
