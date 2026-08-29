@@ -13,8 +13,9 @@ This is a starting scaffold, not exhaustive global coverage — populate additio
 
 ## Existing files
 - `north-america_temperate.md`
-- `sub-saharan-africa_general.md`
-- `south-southeast-asia_tropical.md`
+- Sub-Saharan Africa: `sub-saharan-africa_west-african-coast.md`, `sub-saharan-africa_congo-basin.md`, `sub-saharan-africa_east-african-highlands.md`, `sub-saharan-africa_southern-african-savanna.md`, `sub-saharan-africa_sahel.md`
+- South Asia: `south-asia_indo-gangetic-plains.md`, `south-asia_himalayan-foothills.md`, `south-asia_peninsula-sri-lanka.md`
+- Southeast Asia: `southeast-asia_mainland-mekong.md`, `southeast-asia_maritime-archipelago.md`
 
 ## To add a new region
 Copy `TEMPLATE.md`, fill in the header from `docs/REGIONS.md`, and cross-check any species/disease claims against at least one authoritative source (WHO, CDC, or a regional health ministry) before treating it as reliable.

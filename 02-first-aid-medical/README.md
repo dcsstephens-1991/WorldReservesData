@@ -8,7 +8,7 @@
 - [x] `mental-health-psychological-first-aid.md` — psychological first aid, acute stress, suicide risk, supporting children and caregivers
 - [x] `sanitation-hygiene.md` — waste disposal, handwashing, food safety, vector control
 - [x] `religious-cultural-considerations.md` — how major belief systems intersect with care decisions (blood products, modesty, fasting, end-of-life, dietary restrictions) — ask, don't assume
-- [x] `regional-health-considerations/` — geography-specific disease/species/climate risk, keyed to `docs/REGIONS.md`'s lat/long taxonomy so it stays valid as borders change
+- [x] `regional-health-considerations/` — geography-specific disease/species/climate risk, keyed to `docs/REGIONS.md`'s lat/long taxonomy so it stays valid as borders change. 10 subregions so far: North America (temperate), Sub-Saharan Africa (West African Coast, Congo Basin, East African Highlands, Southern African Savanna, Sahel), South Asia (Indo-Gangetic Plains, Himalayan Foothills, Peninsula & Sri Lanka), Southeast Asia (Mainland/Mekong, Maritime/Archipelago)
 
 ## Sources used
 - US Army FM 4-25.11 (First Aid) — public domain
