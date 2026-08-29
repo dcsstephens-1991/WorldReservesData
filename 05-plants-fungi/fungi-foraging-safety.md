@@ -11,6 +11,10 @@ Read this before any other fungi content in this archive. Mushroom identificatio
 - This archive will **not** attempt to provide species-level mushroom identification guides — doing so from a general reference risks false confidence in exactly the situation where that confidence kills.
 - What's provided instead: safety principles, and named examples of highly dangerous, widely-distributed genera to know to avoid entirely without expert training.
 
+![Generic mushroom anatomy — cap, gills, ring, stem, volva](images/mushroom-anatomy.svg)
+
+*Vocabulary reference only, not a species guide.* The volva (a cup-like sac at the base) is one of the most commonly missed features because it's often underground — always dig up the full base rather than pulling, and check for one before considering any wild mushroom further.
+
 ## Core safety rules
 1. **Never eat a wild mushroom you cannot identify with certainty from multiple independent, expert-level features** — a photo match alone is not enough; regional look-alikes are common and often subtly different.
 2. **Learn from a real person, not a book or app alone.** Local foraging groups, mycological societies, and experienced foragers who can show you a specimen in hand are the actual reliable path to safe mushroom identification — this is one of the few domains where hands-on, local, expert instruction is genuinely necessary rather than a nice-to-have.

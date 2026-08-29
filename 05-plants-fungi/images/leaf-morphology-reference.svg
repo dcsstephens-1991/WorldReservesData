@@ -1,0 +1,68 @@
+<svg viewBox="0 0 480 560" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif" stroke="#1a1a1a" fill="none" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+  <title>Generic leaf morphology vocabulary — arrangement, margin, and simple vs. compound</title>
+
+  <text x="20" y="28" font-size="16" font-weight="700" stroke="none" fill="#1a1a1a">LEAF ARRANGEMENT</text>
+  <line x1="0" y1="40" x2="480" y2="40" stroke-width="1" stroke-dasharray="1,5"/>
+
+  <!-- Alternate -->
+  <g>
+    <line x1="70" y1="55" x2="70" y2="150" stroke-width="2"/>
+    <ellipse cx="45" cy="75" rx="22" ry="9" transform="rotate(-25 45 75)" fill="#1a1a1a" fill-opacity="0.08"/>
+    <ellipse cx="95" cy="100" rx="22" ry="9" transform="rotate(25 95 100)" fill="#1a1a1a" fill-opacity="0.08"/>
+    <ellipse cx="45" cy="125" rx="22" ry="9" transform="rotate(-25 45 125)" fill="#1a1a1a" fill-opacity="0.08"/>
+    <text x="70" y="172" text-anchor="middle" font-size="13" stroke="none" fill="#1a1a1a">Alternate</text>
+  </g>
+
+  <!-- Opposite -->
+  <g>
+    <line x1="240" y1="55" x2="240" y2="150" stroke-width="2"/>
+    <ellipse cx="215" cy="80" rx="22" ry="9" transform="rotate(-15 215 80)" fill="#1a1a1a" fill-opacity="0.08"/>
+    <ellipse cx="265" cy="80" rx="22" ry="9" transform="rotate(15 265 80)" fill="#1a1a1a" fill-opacity="0.08"/>
+    <ellipse cx="215" cy="122" rx="22" ry="9" transform="rotate(-15 215 122)" fill="#1a1a1a" fill-opacity="0.08"/>
+    <ellipse cx="265" cy="122" rx="22" ry="9" transform="rotate(15 265 122)" fill="#1a1a1a" fill-opacity="0.08"/>
+    <text x="240" y="172" text-anchor="middle" font-size="13" stroke="none" fill="#1a1a1a">Opposite</text>
+  </g>
+
+  <!-- Whorled -->
+  <g>
+    <line x1="400" y1="55" x2="400" y2="150" stroke-width="2"/>
+    <ellipse cx="400" cy="90" rx="24" ry="9" fill="#1a1a1a" fill-opacity="0.08"/>
+    <ellipse cx="400" cy="90" rx="24" ry="9" transform="rotate(60 400 90)" fill="#1a1a1a" fill-opacity="0.08"/>
+    <ellipse cx="400" cy="90" rx="24" ry="9" transform="rotate(120 400 90)" fill="#1a1a1a" fill-opacity="0.08"/>
+    <text x="400" y="172" text-anchor="middle" font-size="13" stroke="none" fill="#1a1a1a">Whorled (3+ per node)</text>
+  </g>
+
+  <text x="20" y="215" font-size="16" font-weight="700" stroke="none" fill="#1a1a1a">LEAF MARGIN</text>
+  <line x1="0" y1="227" x2="480" y2="227" stroke-width="1" stroke-dasharray="1,5"/>
+
+  <!-- Entire -->
+  <path d="M70,245 C40,260 40,310 70,325 C100,310 100,260 70,245 Z" fill="#1a1a1a" fill-opacity="0.08"/>
+  <text x="70" y="345" text-anchor="middle" font-size="13" stroke="none" fill="#1a1a1a">Entire (smooth)</text>
+
+  <!-- Toothed / serrated -->
+  <path d="M240,245 C220,255 216,265 224,270 C216,275 220,285 228,282 C222,292 228,300 236,296 C232,306 240,312 240,312 C240,312 248,306 244,296 C252,300 258,292 252,282 C260,285 264,275 256,270 C264,265 260,255 240,245 Z" fill="#1a1a1a" fill-opacity="0.08"/>
+  <text x="240" y="345" text-anchor="middle" font-size="13" stroke="none" fill="#1a1a1a">Toothed / serrated</text>
+
+  <!-- Lobed -->
+  <path d="M400,245 C380,250 375,262 385,268 C378,278 385,290 396,286 C392,298 400,308 400,308 C400,308 408,298 404,286 C415,290 422,278 415,268 C425,262 420,250 400,245 Z" fill="#1a1a1a" fill-opacity="0.08"/>
+  <text x="400" y="345" text-anchor="middle" font-size="13" stroke="none" fill="#1a1a1a">Lobed</text>
+
+  <text x="20" y="400" font-size="16" font-weight="700" stroke="none" fill="#1a1a1a">SIMPLE VS. COMPOUND</text>
+  <line x1="0" y1="412" x2="480" y2="412" stroke-width="1" stroke-dasharray="1,5"/>
+
+  <!-- Simple -->
+  <line x1="150" y1="430" x2="150" y2="470" stroke-width="2"/>
+  <path d="M150,430 C120,440 120,480 150,505 C180,480 180,440 150,430 Z" fill="#1a1a1a" fill-opacity="0.08"/>
+  <text x="150" y="525" text-anchor="middle" font-size="13" stroke="none" fill="#1a1a1a">Simple — one blade per stalk</text>
+
+  <!-- Compound -->
+  <line x1="370" y1="430" x2="370" y2="470" stroke-width="2"/>
+  <line x1="370" y1="450" x2="335" y2="440"/>
+  <line x1="370" y1="460" x2="405" y2="450"/>
+  <ellipse cx="322" cy="435" rx="16" ry="7" transform="rotate(-15 322 435)" fill="#1a1a1a" fill-opacity="0.08"/>
+  <ellipse cx="418" cy="445" rx="16" ry="7" transform="rotate(15 418 445)" fill="#1a1a1a" fill-opacity="0.08"/>
+  <ellipse cx="370" cy="490" rx="16" ry="9" fill="#1a1a1a" fill-opacity="0.08"/>
+  <text x="370" y="525" text-anchor="middle" font-size="13" stroke="none" fill="#1a1a1a">Compound — multiple leaflets, one leaf</text>
+
+  <text x="240" y="552" text-anchor="middle" font-size="12" font-style="italic" stroke="none" fill="#1a1a1a">Vocabulary reference only — not sufficient alone to identify any species</text>
+</svg>

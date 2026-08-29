@@ -8,6 +8,8 @@ A last-resort protocol (drawn from US Army survival doctrine, e.g. FM 21-76) for
 - Never test fungi with this method — see `fungi-foraging-safety.md`. Fungal toxins are not reliably screened by this protocol and the consequences are disproportionately severe.
 - Skip any plant with these automatic red flags (do not test them at all): milky or discolored sap, spines/fine hairs, umbrella-shaped flower clusters (many toxic plants in the carrot/parsley family share this shape with edible ones — see `toxic-plants-widely-confused.md`), a bitter or soapy taste in the initial contact test below, beans/bulbs/seeds inside pods (many are toxic), an almond scent in woody parts/seeds (possible cyanide compounds), grain heads with pink/purple/black spurs (possible fungal contamination like ergot).
 
+![Universal Edibility Test procedure as a flowchart](images/universal-edibility-test-flowchart.svg)
+
 ## The test — each step is a separate several-hour stage
 1. **Separate the plant into parts** (roots, stems, leaves, buds, flowers) — test only one part at a time, since edibility can differ between parts of the same plant.
 2. **Smell test**: crush a portion, smell for strong/acrid odors — a strongly disagreeable smell is a reason to stop with that part.

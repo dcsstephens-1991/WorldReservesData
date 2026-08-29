@@ -9,6 +9,7 @@
 - [x] `common-survival-plants_global.md` — widely-distributed, low-ambiguity useful plants (cattail, dandelion, plantain, stinging nettle, chickweed, oak acorns)
 - [x] `medicinal-plants-general-principles.md` — dosage, drug-interaction, and identification caution for herbal use; principles rather than a dosing catalog
 - [x] `regional/` — region-specific plant notes keyed to `docs/REGIONS.md`'s lat/long taxonomy; started with a North America temperate example, template provided for adding more
+- [x] `images/` — black-and-white line-art diagrams: generic mushroom anatomy, leaf morphology vocabulary (arrangement/margin/simple vs. compound), the umbel flower-cluster shape shared by edible and deadly carrot-family plants, and a Universal Edibility Test flowchart. Deliberately generic/procedural, not species-specific renderings — see "Why this folder is more conservative" below
 
 ## Why this folder is more conservative than others in the archive
 Most of this archive favors broad, useful coverage. This folder deliberately does not: exhaustive species-level identification guides (especially for fungi) generated from general knowledge carry a real risk of confidently-stated errors that could hurt someone. Where the archive doesn't have a verified, cross-checked source for a specific regional species, it says so rather than guessing — see `fungi-foraging-safety.md` for the clearest example of this policy.
