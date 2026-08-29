@@ -1,13 +1,13 @@
 # 09 — Tools & Manufacturing
 
-## Subtopics
-- `blacksmithing-metalwork/`
-- `machining-metalworking/`
-- `woodworking-toolmaking/`
-- `repair-general/` — iFixit-style repair knowledge
-- `textiles-leatherwork/`
+## Contents
+- [x] `blacksmithing-basics.md` — minimum viable forge setup, core process concepts, heat treatment
+- [x] `woodworking-toolmaking-basics.md` — hand tool priorities, handle-making, basic carved items
+- [x] `general-repair-principles.md` — diagnostic approach, mechanical/electrical repair, preventive maintenance
+- [x] `textiles-leatherwork-basics.md` — fiber sources, spinning/weaving chain, tanning basics
 
-## Recommended sources
-- iFixit ZIM pack (repair guides, CC-BY-NC-SA — check terms before redistribution)
-- Project Gutenberg pre-1930 trade/craft manuals (public domain) — the "Survivor Library" curated list is a good starting index of titles
-- Appropedia manufacturing articles (CC)
+## Still to build
+- Tool-specific forging sequences with detail (knife, axe, hoe)
+- Natural adhesive recipes
+- Detailed tanning process by method
+- iFixit-style general repair guides once the Kiwix pack is loaded (see `scripts/download-kiwix.sh`)

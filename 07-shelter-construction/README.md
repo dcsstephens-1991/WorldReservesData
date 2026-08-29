@@ -1,14 +1,13 @@
 # 07 — Shelter & Construction
 
-## Subtopics
-- `emergency-shelter/` — debris huts, tarps, snow shelters
-- `carpentry-timber-framing/`
-- `masonry-earthbuilding/` — cob, adobe, rammed earth, stone
-- `structural-basics/` — load paths, foundations, roofing
-- `sanitation-infrastructure/` — latrines, greywater, composting toilets
+## Contents
+- [x] `emergency-shelter-basics.md` — expands on the quick-reference fire/shelter card
+- [x] `basic-carpentry-joinery.md` — wood joinery without metal fasteners, basic tools
+- [x] `basic-masonry-earthbuilding.md` — cob, adobe, rammed earth, stone masonry
+- [x] `structural-basics.md` — load paths, foundations, roofing, openings
+- [x] `sanitation-infrastructure-basics.md` — latrine/composting toilet/greywater construction
 
-## Recommended sources
-- US Army FM 5-34 (Engineer Field Data) — public domain
-- Appropedia construction articles (CC)
-- Project Gutenberg pre-1930 carpentry/building texts
-- Peace Corps construction manuals (public domain)
+## Still to build
+- Detailed build diagrams/dimensions for each structure type
+- Region/climate-specific shelter designs (desert, tropical, arctic)
+- Lime mortar and other from-scratch building material production

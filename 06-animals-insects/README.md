@@ -1,13 +1,17 @@
 # 06 — Animals & Insects
 
-## Subtopics
-- `identification_[region]/` — dangerous vs. harmless, venomous species by region
-- `insects-edible-and-pest/` — entomophagy basics, crop/stored-food pest management
-- `livestock/` — cross-reference with `04-food-agriculture/animal-husbandry/`
-- `hunting-trapping-processing/`
-- `disease-vectors/` — mosquitoes, ticks, rodents — what they carry, how to reduce exposure
+## Contents
+- [x] `dangerous-species-general-principles.md` — general (non-regional) venomous species and predator-avoidance principles
+- [x] `livestock-basics.md` — chickens, goats, rabbits starter care
+- [x] `edible-insects-basics.md` — safety principles, commonly-eaten categories, small-scale farming over wild foraging
+- [x] `hunting-trapping-basics.md` — trap types, processing basics
+- [x] `pest-disease-vectors.md` — mosquitoes, ticks, rodents, stored-food pests
+- [ ] `regional/` — region-specific dangerous species identification, keyed to `docs/REGIONS.md` — not yet built
 
-## Recommended sources
-- Wikipedia species pages (ZIM)
-- Regional wildlife agency field guides (usually public domain, state/national gov)
-- FAO insects-as-food reports (open access)
+## Curation note
+Same safety-critical standard as `05-plants-fungi/` applies to any specific species-identification content (especially venomous species) — two independent identifying features, named similar/confusable species, source citation. General principles here are lower-risk than species-level ID and are covered; species-level regional identification is intentionally left for `regional/` to be built with proper sourcing.
+
+## Still to build
+- `regional/` species identification, mirroring `02-first-aid-medical/regional-health-considerations/` and `05-plants-fungi/regional/`
+- Larger livestock (cattle, pigs, sheep)
+- Detailed trap construction and primitive weapon-making
