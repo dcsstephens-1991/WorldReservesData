@@ -1,0 +1,5 @@
+# Large downloaded content packs are not tracked in git — pull them locally via scripts/
+14-software-digital/zim/*.zim
+14-software-digital/readers/
+14-software-digital/os-images/
+*.zim
