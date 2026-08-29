@@ -1,0 +1,41 @@
+<svg viewBox="0 0 480 300" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif" stroke="#1a1a1a" fill="none" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+  <title>Ground insulation — most heat loss is downward through conduction, not to the air</title>
+
+  <text x="240" y="26" text-anchor="middle" font-size="13" font-weight="700" stroke="none" fill="#1a1a1a">Insulate from the ground first</text>
+
+  <!-- Panel 1: no ground insulation -->
+  <g>
+    <line x1="30" y1="230" x2="220" y2="230" stroke-width="3"/>
+    <path d="M30,230 L30,245 L220,245 L220,230" fill="#1a1a1a" fill-opacity="0.05" stroke-width="1"/>
+    <ellipse cx="125" cy="212" rx="70" ry="16" fill="#1a1a1a" fill-opacity="0.08" stroke-width="2"/>
+    <g stroke-width="1.6" marker-end="url(#arrowdown)">
+      <line x1="90" y1="220" x2="90" y2="248"/>
+      <line x1="125" y1="222" x2="125" y2="248"/>
+      <line x1="160" y1="220" x2="160" y2="248"/>
+    </g>
+    <text x="125" y="270" text-anchor="middle" font-size="12" font-weight="700" stroke="none" fill="#1a1a1a">Bare ground</text>
+    <text x="125" y="286" text-anchor="middle" font-size="11" stroke="none" fill="#1a1a1a">heat lost fast to cold ground</text>
+  </g>
+
+  <!-- Panel 2: insulated -->
+  <g transform="translate(240,0)">
+    <line x1="30" y1="230" x2="220" y2="230" stroke-width="3"/>
+    <path d="M30,230 L30,245 L220,245 L220,230" fill="#1a1a1a" fill-opacity="0.05" stroke-width="1"/>
+    <!-- thick debris layer -->
+    <path d="M35,222 C60,214 80,224 100,216 C120,208 140,220 160,214 C180,208 195,218 215,212 L215,230 L35,230 Z" fill="#1a1a1a" fill-opacity="0.15" stroke-width="1.8"/>
+    <ellipse cx="125" cy="192" rx="70" ry="16" fill="#1a1a1a" fill-opacity="0.08" stroke-width="2"/>
+    <g stroke-width="1.4" stroke-dasharray="3,3">
+      <line x1="90" y1="205" x2="90" y2="215"/>
+      <line x1="125" y1="207" x2="125" y2="215"/>
+      <line x1="160" y1="205" x2="160" y2="215"/>
+    </g>
+    <text x="125" y="270" text-anchor="middle" font-size="12" font-weight="700" stroke="none" fill="#1a1a1a">Thick dry debris layer</text>
+    <text x="125" y="286" text-anchor="middle" font-size="11" stroke="none" fill="#1a1a1a">heat loss cut sharply</text>
+  </g>
+
+  <defs>
+    <marker id="arrowdown" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#1a1a1a" stroke="none"/>
+    </marker>
+  </defs>
+</svg>

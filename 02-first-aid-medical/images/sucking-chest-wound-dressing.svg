@@ -1,0 +1,33 @@
+<svg viewBox="0 0 480 340" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif" stroke="#1a1a1a" fill="none" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+  <title>Open chest wound — airtight dressing taped on three sides only</title>
+
+  <!-- torso outline -->
+  <path d="M100,40 C100,25 380,25 380,40 L385,250 C385,270 95,270 95,250 Z" fill="#1a1a1a" fill-opacity="0.04"/>
+
+  <!-- dressing square -->
+  <rect x="175" y="95" width="130" height="105" rx="6" fill="#1a1a1a" fill-opacity="0.1" stroke-width="2.4"/>
+
+  <!-- tape on top, left, right (3 sides) -->
+  <g stroke-width="6" stroke="#1a1a1a" stroke-opacity="0.55">
+    <line x1="168" y1="95" x2="312" y2="95"/>
+    <line x1="175" y1="88" x2="175" y2="207"/>
+    <line x1="305" y1="88" x2="305" y2="207"/>
+  </g>
+  <text x="240" y="75" text-anchor="middle" font-size="12" font-weight="700" stroke="none" fill="#1a1a1a">Taped: top, left, right</text>
+
+  <!-- open bottom edge with air arrows -->
+  <g stroke-width="1.8" marker-end="url(#arrow2)">
+    <path d="M205,205 C200,218 200,226 205,236"/>
+    <path d="M240,205 C235,218 235,226 240,236"/>
+    <path d="M275,205 C270,218 270,226 275,236"/>
+  </g>
+  <defs>
+    <marker id="arrow2" markerWidth="10" markerHeight="10" refX="5" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#1a1a1a" stroke="none"/>
+    </marker>
+  </defs>
+
+  <text x="240" y="290" text-anchor="middle" font-size="13" font-weight="700" stroke="none" fill="#1a1a1a">Bottom edge left open</text>
+  <text x="240" y="308" text-anchor="middle" font-size="12" stroke="none" fill="#1a1a1a">air escapes out, can't re-enter</text>
+  <text x="240" y="330" text-anchor="middle" font-size="11" font-style="italic" stroke="none" fill="#1a1a1a">Worsening breathing after this = evacuate urgently (possible tension pneumothorax)</text>
+</svg>

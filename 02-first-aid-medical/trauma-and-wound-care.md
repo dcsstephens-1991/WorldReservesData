@@ -14,6 +14,9 @@ Broad, source-crosschecked field reference (US Army FM 4-25.11, Hesperian *Where
 Do **not** remove an object impaled in the body (deep puncture, embedded knife/rebar/etc.) — it may be blocking further bleeding. Stabilize it in place with bulky padding around it, immobilize the area, evacuate for surgical removal.
 
 ## Fractures — deeper reference
+
+![Splinting principle diagram](images/splinting-principle.svg)
+
 - **Closed fracture**: skin intact. Splint in the position found, padded, immobilizing the joint above and below the break.
 - **Open fracture**: bone breaks skin — higher infection risk. Control bleeding, cover the wound (don't push bone back in), splint without pressing on the exposed bone, evacuate urgently — open fractures need surgical cleaning.
 - **Suspected spinal injury** (fall from height, diving injury, high-speed impact, neck/back pain, numbness/tingling in limbs): minimize movement, support head/neck in the position found, do not attempt to realign, wait for trained help if at all possible.
@@ -32,6 +35,9 @@ Do **not** remove an object impaled in the body (deep puncture, embedded knife/r
 - Mild head injury without those signs: rest, monitor closely for 24-48 hrs, wake periodically to check responsiveness if sleeping.
 
 ## Chest injury
+
+![Sucking chest wound dressing diagram](images/sucking-chest-wound-dressing.svg)
+
 - **Open chest wound** (sucking chest wound): cover with an airtight material (plastic wrap, dressing packaging) taped on 3 sides only — this lets air escape but not re-enter, preventing lung collapse from worsening. Watch for worsening breathing difficulty (possible tension pneumothorax — evacuate urgently, this can be fatal without a professional needle decompression).
 - **Suspected rib fracture**: pain with breathing/movement, tenderness over ribs. Don't wrap the chest tightly (restricts breathing) — pain management and gentle activity as tolerated, watch for breathing difficulty.
 

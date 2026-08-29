@@ -9,6 +9,7 @@
 - [x] `sanitation-hygiene.md` — waste disposal, handwashing, food safety, vector control
 - [x] `religious-cultural-considerations.md` — how major belief systems intersect with care decisions (blood products, modesty, fasting, end-of-life, dietary restrictions) — ask, don't assume
 - [x] `regional-health-considerations/` — geography-specific disease/species/climate risk, keyed to `docs/REGIONS.md`'s lat/long taxonomy so it stays valid as borders change. Every macro-region now covered (28 subregion files) — see that folder's README for the full list.
+- [x] `images/` — black-and-white diagrams: tourniquet placement, recovery position, splinting principle, sucking chest wound dressing (3-sided tape)
 
 ## Sources used
 - US Army FM 4-25.11 (First Aid) — public domain
