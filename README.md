@@ -42,6 +42,7 @@ docs/                    Hardware plan, curation policy, master index
 - Read [`docs/PLAN.md`](docs/PLAN.md) for the full build plan.
 - Read [`docs/HARDWARE.md`](docs/HARDWARE.md) for drive/format/redundancy choices.
 - Read [`docs/CURATION.md`](docs/CURATION.md) for sourcing and licensing rules.
+- Read [`docs/REGIONS.md`](docs/REGIONS.md) for the geography taxonomy used by any region-specific content (lat/long-anchored, since political borders drift).
 - Run scripts in [`scripts/`](scripts/) to pull the recommended offline content packs (Kiwix ZIMs, Project Gutenberg sets, etc.).
 
 ## Status
