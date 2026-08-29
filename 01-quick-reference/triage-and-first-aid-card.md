@@ -14,6 +14,8 @@ Don't become a second casualty. Check for fire, traffic, structural collapse, el
 1. Direct firm pressure with cloth/gauze — don't peek, don't remove soaked cloth, add more on top.
 2. Elevate the wound above heart level if possible.
 3. If bleeding won't stop and it's a limb: apply a tourniquet 2-3 inches above the wound (not on a joint), tighten until bleeding stops, note the time applied, do not loosen once applied.
+
+![Tourniquet placement diagram](../02-first-aid-medical/images/tourniquet-application.svg)
 4. Pack deep wounds with gauze/clean cloth, then pressure.
 
 ## 4. Shock (treat everyone with a serious injury as if in shock)

@@ -16,6 +16,8 @@ Recognizing and responding to sudden illness in the field, without diagnostic eq
 - Protect from injury: clear the area of hard/sharp objects, cushion the head, do not restrain the person or put anything in their mouth.
 - Time the seizure. Most stop within 1-3 minutes.
 - After: roll onto their side (recovery position) once shaking stops, to keep the airway clear as they regain consciousness.
+
+![Recovery position diagram](images/recovery-position.svg)
 - Seek urgent care if: seizure lasts over 5 minutes, a second seizure follows without regaining consciousness, it's their first seizure ever, injury occurred, or they don't regain normal consciousness within ~20-30 min.
 
 ## Anaphylaxis (severe allergic reaction)

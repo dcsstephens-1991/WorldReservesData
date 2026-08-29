@@ -6,11 +6,21 @@ Expands on `01-quick-reference/fire-shelter-signal.md` with more construction de
 1. **Insulate from the ground first** — you lose heat fastest downward through contact/conduction, not to the air. A thick layer of dry debris, branches, or a sleeping pad matters more than an elaborate roof.
 2. **Size to your body** — a shelter just big enough to lie in traps body heat far more effectively than a larger one.
 3. **Site selection** — avoid dead standing trees/branches overhead ("widowmakers"), low ground prone to flash flooding or cold air pooling, exposed ridgelines, and animal trails/nests.
+
+![Site selection hazards diagram](images/site-selection-hazards.svg)
+
 4. **Layer for the actual threat** — wind protection, rain protection, and ground insulation are three separate problems; identify which is most urgent for your specific conditions before building.
+
+![Ground insulation cross-section diagram](images/ground-insulation-cross-section.svg)
 
 ## Common shelter types
 - **Debris hut**: a ridge pole leaned against a support (tree, rock), with ribbing sticks leaned against both sides, covered in a thick (12in+/30cm+) layer of leaves/debris for insulation. Effective in forested temperate climates with available leaf litter.
+
+![Debris hut diagram](images/debris-hut.svg)
+
 - **Lean-to**: a single angled wall/roof against the prevailing wind direction, open on the leeward side, often paired with a reflecting fire on the open side. Faster to build than a debris hut, less insulating.
+
+![Lean-to shelter diagram](images/lean-to-shelter.svg)
 - **Snow shelter (quinzhee/snow cave)**: dug into a snow drift or mounded and hollowed snow; walls should stay 12in+/30cm+ thick for insulation, and a ventilation hole is essential — carbon dioxide buildup/suffocation is a real risk in a sealed snow shelter.
 - **Tarp/poncho shelter**: fastest to deploy with prepared materials; various configurations (A-frame, lean-to) depending on wind direction and available anchor points.
 
