@@ -47,4 +47,4 @@ docs/                    Hardware plan, curation policy, master index
 
 ## Status
 
-Scaffolding stage — folder structure and curated source lists are in place; content packs still need to be downloaded per `docs/PLAN.md` phases.
+Every folder (01-14) now has real starter content — breadth-first, with each file flagging what still needs deeper research. Bulk encyclopedic content packs (Kiwix ZIMs) still need to be downloaded per `docs/PLAN.md` Phase 2. See each folder's README for its specific "still to build" list.

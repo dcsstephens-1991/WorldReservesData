@@ -1,9 +1,12 @@
 # 12 — Science & Education
 
-Core textbooks for re-teaching a generation, prioritized by what's needed to eventually rebuild the categories above (chemistry, physics, biology, math) from first principles.
+## Contents
+- [x] `core-curriculum-outline.md` — teaching roadmap and priority order, teaching-without-a-school-system notes
+- [x] `foundational-concepts-cheatsheet.md` — quick-reference formulas/concepts used elsewhere in the archive
 
-## Recommended sources
-- OpenStax full textbook catalog (CC-BY, free): math, physics, chemistry, biology
-- Wikiversity / Wikibooks (ZIM)
-- Project Gutenberg classic textbooks
-- Khan Academy content export (check licensing/availability for offline use)
+## Curation note
+This folder currently provides a roadmap and cheat sheet, not full textbook content — see `docs/PLAN.md` and `docs/CURATION.md` for the plan to source real textbook-depth material from OpenStax (CC-BY) and similar open-license sources rather than generating a full curriculum from general knowledge.
+
+## Still to build
+- Actual textbook-depth content per subject (math, physics, chemistry, biology) — sourced, not generated
+- Wikiversity/Wikibooks content via the Kiwix pack (see `scripts/download-kiwix.sh`)
