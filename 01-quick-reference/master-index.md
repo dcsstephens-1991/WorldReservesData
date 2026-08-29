@@ -3,10 +3,11 @@
 Start here. This page maps the whole archive.
 
 ## If you have 5 minutes, read these first
-1. `triage-and-first-aid-card.md` — bleeding, shock, CPR, burns, choking
-2. `water-purification-quicksteps.md` — how to make water safe to drink
-3. `fire-shelter-signal.md` — fire, emergency shelter, signaling for rescue
-4. `evacuation-bugout-checklist.md` — what to grab and do before leaving
+1. `emergency-type-triage.md` — **identify what's happening first** (earthquake, flood, nuclear, civil unrest, etc.) and what to do in the first minutes
+2. `triage-and-first-aid-card.md` — bleeding, shock, CPR, burns, choking
+3. `water-purification-quicksteps.md` — how to make water safe to drink
+4. `fire-shelter-signal.md` — fire, emergency shelter, signaling for rescue
+5. `evacuation-bugout-checklist.md` — what to grab and do before leaving
 
 ## Full folder map
 | Folder | Use it for |

@@ -3,6 +3,7 @@
 The "first 72 hours" layer. Small, printable, phone-friendly. This is the last thing you compile (it summarizes folders 02-13) but the first thing anyone should open.
 
 ## Contents
+- [x] `emergency-type-triage.md` — identify the type of emergency (earthquake, landslide, flood, wildfire, storm, nuclear/radiological, pandemic, war, civil unrest, breakdown of civil order) and the correct first response for each
 - [x] `triage-and-first-aid-card.md` — one-page ABCs, bleeding control, shock, CPR steps
 - [x] `water-purification-quicksteps.md` — boil times, bleach ratios, filtration order of operations
 - [ ] `edible-plant-quick-id_[region].md` — regional, needs a target region before it can be written safely; see `edible-plant-quick-id_TEMPLATE.md`
